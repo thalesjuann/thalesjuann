@@ -50,3 +50,9 @@
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:thalesjuand@gmail.com)](mailto:thalesjuand@gmail.com)
 
 ![Thales Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesjuann\&rank_icon=percentile)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thalesjuann/thalesjuann/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thalesjuann/thalesjuann/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thalesjuann/thalesjuann/output/github-contribution-grid-snake.svg">
+</picture>
