@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://img.freepik.com/vetores-gratis/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387.jpg?t=st=1721599178~exp=1721602778~hmac=d72e48a5ea5eb1dccff3ec946d2f95a8811978e1de268aa94400fa381c05ee51&w=740](https://cdn.discordapp.com/attachments/1254948329343942731/1264715118042677288/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387-removebg-preview_1.png?ex=669ee13d&is=669d8fbd&hm=35974fa922bdaeec13ef129d072f99b9eadcd15159aaef03a34e119189e2fe83&)" alt="Software Developer">
+  <img src="https://cdn.discordapp.com/attachments/1254948329343942731/1264715118042677288/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387-removebg-preview_1.png?ex=669ee13d&is=669d8fbd&hm=35974fa922bdaeec13ef129d072f99b9eadcd15159aaef03a34e119189e2fe83&" alt="Software Developer">
 </div>
 
 # 🚀 Olá, eu sou Thales Juan - Desenvolvedor FullStack
