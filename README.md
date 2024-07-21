@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Thales Juan!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!+Me+chamo+Thales+Juan" alt="Typing SVG" />
 </h1>
 
 ## Sobre mim
@@ -60,5 +60,5 @@
 </picture>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Muito+obrigado+pela+sua+atenção!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Muito+obrigado+pela+aten%C3%A7%C3%A3o!" alt="Typing SVG" />
 </h1>
