@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1254948329343942731/1264715118042677288/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387-removebg-preview_1.png?ex=669ee13d&is=669d8fbd&hm=35974fa922bdaeec13ef129d072f99b9eadcd15159aaef03a34e119189e2fe83&" alt="Software Developer">
+  <img src="https://cdn.discordapp.com/attachments/1254948329343942731/1264715118042677288/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387-removebg-preview_1.png?ex=66a0db7d&is=669f89fd&hm=0b1ed30fa6701fa5df8a9de2688e58536bf55f1ad1cd5e2be8b674a4db42399f&" alt="Software Developer">
 </div>
 
 <h1 align="center">
