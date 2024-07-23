@@ -39,6 +39,7 @@
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
 1. [Cronômetro Digital](https://github.com/thalesjuann/CronometroDigital): Um cronômetro estilizado e responsivo, feito com HTML, CSS e JavaScript. Com funcionalidades de iniciar, parar e resetar, ele oferece uma interface moderna e adaptável para diferentes tamanhos de tela. Ideal para quem busca uma solução prática e visualmente atraente para medir o tempo.
+2. [Calculadora Python](https://github.com/thalesjuann/CalculadoraPython): Uma calculadora interativa desenvolvida em Python com uma interface de linha de comando. Com operações básicas de adição, subtração, multiplicação e divisão, ela permite cálculos rápidos e práticos. Após cada operação, você pode continuar ou sair, oferecendo uma solução eficiente e fácil de usar para suas necessidades de cálculo no terminal.
 
 ## Vamos Criar Algo Incrível! 💫
 
