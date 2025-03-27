@@ -27,25 +27,34 @@
 
 <h2 style="font-size: 26px; color: #FF5722;"> 👨‍💻 Sobre mim</h2>
 
-```yaml
-nome: Thales Juan
-localização: Sergipe, Brasil
-atualmente_em: Desenvolvedor Full Stack
+```js
+const thalesJuan = {
+  nome: "Thales Juan",
+  localizacao: "Sergipe, Brasil",
+  atualmenteSou: "Desenvolvedor Full Stack",
 
-interesses_profissionais:
-  - "Desenvolvimento Front-End"
-  - "Desenvolvimento Back-End"
-  - "Ciência de Dados"
-  - "UI/UX Design"
+  interessesProfissionais: [
+    "Desenvolvimento Front-End",
+    "Desenvolvimento Back-End",
+    "Ciência de Dados",
+    "UI/UX Design"
+  ],
 
-aprendendo_atualmente: 
-  - "Java"
-metas_2025: 
-  - "Aprofundar em Java"
-  - "Explorar Engenharia de Software"
-atividades_que_curto: 
-  - "Jogos Digitais"
-  - "Cinema e Filmes"
+  aprendendoAtualmente: [
+    "Java"
+  ],
+
+  metas2025: [
+    "Aprofundar em Java",
+    "Iniciar Engenharia de Software"
+  ],
+
+  hobbies: [
+    "Jogos Digitais",
+    "Cinema e Filmes"
+  ]
+};
+
 ```
 
 ---
