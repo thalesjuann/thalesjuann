@@ -1,45 +1,44 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1254948329343942731/1264715118042677288/hacker-operando-uma-ilustracao-do-icone-dos-desenhos-animados-laptop-conceito-de-icone-de-tecnologia-isolado-estilo-flat-cartoon_138676-2387-removebg-preview_1.png?ex=66a0db7d&is=669f89fd&hm=0b1ed30fa6701fa5df8a9de2688e58536bf55f1ad1cd5e2be8b674a4db42399f&" alt="Software Developer">
-</div>
-
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!+Me+chamo+Thales+Juan" alt="Typing SVG" />
 </h1>
 
 ## Sobre mim
 
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+Sou desenvolvedor fullstack com foco em JavaScript, especializado na criação de bots para Discord e aplicações web. Com 3 anos de experiência, busco constantemente me atualizar e expandir minhas habilidades para criar projetos de alta qualidade.
 
 ## Habilidades Tecnológicas
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
-- **Linguagens de Programação:** 
+Claro! Aqui está uma versão melhorada e mais estruturada:
 
-  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) (Estudando)
+---
 
-- **Frameworks e Bibliotecas:** 
+### **Linguagens de Programação:**  
+- [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) (Estudando)
+- [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) (Estudando)
 
-  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+### **Frameworks e Bibliotecas:**  
+- [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-- **Dados:** 
+### **Banco de Dados:**  
+- [![MongoDB](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+### **Ferramentas e Tecnologias:**  
+- [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
+- [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
+- [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
-- **Ferramentas e Tecnologias:** 
-
-  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
-
-- **Desenvolvimento Web:**
-
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+### **Desenvolvimento Web:**  
+- [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
+- [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
+- [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ## Projetos Criativos
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+🎨 Aqui estão alguns dos meus projetos:
 
-1. [Cronômetro Digital](https://github.com/thalesjuann/CronometroDigital): Um cronômetro estilizado e responsivo, feito com HTML, CSS e JavaScript. Com funcionalidades de iniciar, parar e resetar, ele oferece uma interface moderna e adaptável para diferentes tamanhos de tela. Ideal para quem busca uma solução prática e visualmente atraente para medir o tempo.
-2. [Calculadora Python](https://github.com/thalesjuann/CalculadoraPython): Uma calculadora interativa desenvolvida em Python com uma interface de linha de comando. Com operações básicas de adição, subtração, multiplicação e divisão, ela permite cálculos rápidos e práticos. Após cada operação, você pode continuar ou sair, oferecendo uma solução eficiente e fácil de usar para suas necessidades de cálculo no terminal.
+1. Em Desenvolvimento
 
 ## Vamos Criar Algo Incrível! 💫
 
