@@ -1,72 +1,75 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Saudações!&fontColor=ffffff&fontSize=60" />
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!+Me+chamo+Thales+Juan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=600&height=70&lines=Olá!+Sou+Thales+Juan" alt="Typing SVG" />
 </h1>
 
-<h1 align="center">
-  Vamos nos conectar!💬
-</h1>
+<h2 align="center" style="font-size: 24px; color: #4CAF50;">
+  Vamos trocar ideias! 🌟
+</h2>
 
 <p align="center">
-<a href="https://x.com/thalesjuann">
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/>
-</a>
-<a href="https://www.instagram.com/thalesjuan._/">
-  <img height="50" src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-<a href="https://discord.com/users/829877072079487066">
-  <img height="50" src="https://skillicons.dev/icons?i=discord"/>
-</a>
+  <a href="https://x.com/thalesjuann">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
+  </a>
+  <a href="https://www.instagram.com/thalesjuan._/">
+    <img height="50" src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://discord.com/users/829877072079487066">
+    <img height="50" src="https://skillicons.dev/icons?i=discord" />
+  </a>
 </p>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;Um pouco sobre mim</h2>
+<h2 style="font-size: 26px; color: #FF5722;"> 👨‍💻 Sobre mim</h2>
 
 ```yaml
 nome: Thales Juan
-localizado_em: Sergipe, Brasil
-trabalho_atual: Desenvolvedor Full Stack
+localização: Sergipe, Brasil
+atualmente_em: Desenvolvedor Full Stack
 
-campos_de_interesse:
-  [
-    "Desenvolvimento Front-End",
-    "Desenvolvimento Back-End",
-    "Ciência de Dados",
-    "UI/UX",
-  ]
+interesses_profissionais:
+  - "Desenvolvimento Front-End"
+  - "Desenvolvimento Back-End"
+  - "Ciência de Dados"
+  - "UI/UX Design"
 
-  
-aprendendo_atualmente: ["Java"]
-objetivos_2025: ["Aprender Java", "Iniciar Engenharia de Software"]
-hobbies: ["Jogos", "Cinema"]
-
+aprendendo_atualmente: 
+  - "Java"
+metas_2025: 
+  - "Aprofundar em Java"
+  - "Explorar Engenharia de Software"
+atividades_que_curto: 
+  - "Jogos Digitais"
+  - "Cinema e Filmes"
 ```
-  
----  
-  
-<h2> 🚀 &nbsp;Algumas ferramentas que eu uso</h2>
+
+---
+
+<h2 style="font-size: 26px; color: #2196F3;"> 🚀 Ferramentas que utilizo</h2>
+
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&&text=Tchau!&section=footer&fontColor=ffffff"/>
 </p>
