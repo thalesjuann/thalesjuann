@@ -10,29 +10,33 @@ Sou desenvolvedor fullstack com foco em JavaScript, especializado na criação d
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
-Claro! Aqui está uma versão melhorada e mais estruturada:
-
----
-
 ### **Linguagens de Programação:**  
-- [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) (Estudando)
-- [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) (Estudando)
+- [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) (Estudando)  
+- [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
+- [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)  
 
 ### **Frameworks e Bibliotecas:**  
-- [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+- [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+- [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
+- [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 
-### **Banco de Dados:**  
-- [![MongoDB](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+### **Banco de Dados e Armazenamento:**  
+- [![MongoDB](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)  
+- [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
 
 ### **Ferramentas e Tecnologias:**  
 - [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
 - [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
-- [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+- [![Visual Studio Code](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)  
 
 ### **Desenvolvimento Web:**  
-- [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
-- [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
-- [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
+- [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
+- [![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)  
+
+### **Outras Habilidades:**  
+- [![Discord.js](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) (Desenvolvimento de bots para Discord)  
+- [![NPM](https://skillicons.dev/icons?i=npm)](https://skillicons.dev) (Gerenciamento de pacotes)  
 
 ## Projetos Criativos
 
