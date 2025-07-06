@@ -12,9 +12,6 @@
 </h2>
 
 <p align="center">
-  <a href="https://x.com/thalesjuann">
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />
-  </a>
   <a href="https://www.instagram.com/thalesjuan._/">
     <img height="50" src="https://skillicons.dev/icons?i=instagram" />
   </a>
