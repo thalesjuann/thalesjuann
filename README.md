@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Thales Juan Dias
 
 Tenho 19 anos, sou de Sergipe e curso **Análise e Desenvolvimento de Sistemas** na **UNINASSAU**.  
-Sou focado em desenvolvimento web, backend, bots para Discord e projetos com JavaScript, TypeScript, Node.js e MongoDB.
+Sou focado em desenvolvimento backend.
 
 ---
 
